@@ -1,0 +1,9 @@
+[submodule "bird-detection-api"]
+	path = bird-detection-api
+	url = ../bird-detection-api
+[submodule "bird-detection-web"]
+	path = bird-detection-web
+	url = ../bird-detection-web
+[submodule "bird-detection-model"]
+	path = bird-detection-model
+	url = ../bird-detection-model
